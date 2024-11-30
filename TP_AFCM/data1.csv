@@ -1,0 +1,148 @@
+ID,City,How would you describe your current situation?,Current school,Academic Year,On what device will you use DataCamp?,Are you currently receiving any other forms of financial assistance or scholarships?,"On a scale of 1-5, how much do you know about data science, analysis, engineering, AI, and/or machine learning?",How much time will you dedicate to use DataCamp regularly?,"After using DataCamp for 6-12 months, are you willing and able to fill out and submit this survey about your experience?"
+1,Algiers,Student aged 16-26,ESI,1CP / L1,My own computer,No,1,3-5 hours/week,Yes
+2,Chlef,Student aged 16-26,ESI,1CP / L1,My own computer,No,1,1-2 hours/week,Yes
+3,Algiers,Unemployed,ESI,1CS / L3,My own computer,No,1,3-5 hours/week,Yes
+4,Annaba,Student aged 16-26,ESI,1CS / L3,My own mobile device,No,2,3-5 hours/week,Yes
+5,Algiers,Student aged 16-26,USTHB,1CS / L3,My own computer,No,2,3-5 hours/week,Yes
+6,Chlef,Student aged 16-26,ESI,1CS / L3,My own computer,No,2,3-5 hours/week,Yes
+7,Oum el bouagui,Student aged 16-26,ESI,1CS / L3,My own computer,No,1,>5 hours/week,Yes
+8,Algiers,Student aged 16-26,USTHB,1CP / L1,My own mobile device,No,1,3-5 hours/week,Maybe
+9,Blida,Student aged 16-26,ESI,1CS / L3,My own computer,No,2,>5 hours/week,Yes
+10,Blida,Unemployed,ESI,2CP / L2,My own computer,No,1,3-5 hours/week,Yes
+11,Algiers,Student aged 16-26,ESI,2CP / L2,My own mobile device,No,1,3-5 hours/week,Maybe
+12,Algiers,Student aged 16-26,ESI,1CS / L3,My own computer,Yes,2,>5 hours/week,Yes
+13,Algiers,Student aged 16-26,USTHB,2CP / L2,My own computer,No,1,3-5 hours/week,Yes
+14,Oran,Unemployed,ENSIA,1CS / L3,My own computer,No,3,>5 hours/week,Yes
+15,Chlef,Student aged 16-26,ESI,1CP / L1,My own mobile device,No,1,3-5 hours/week,Maybe
+16,Algiers,Student aged 16-26,ESB,2CP / L2,My own mobile device,No,3,>5 hours/week,Yes
+17,Constantine,Student aged 16-26,ESI,1CS / L3,My own computer,No,2,3-5 hours/week,Yes
+18,Algiers,Unemployed,ESI,2CP / L2,My own computer,No,2,>5 hours/week,Yes
+19,Algiers,Student aged 16-26,ESI,1CS / L3,My own computer,No,1,3-5 hours/week,Yes
+20,Algiers,Student aged 16-26,USTHB,2CP / L2,My own computer,No,2,3-5 hours/week,Yes
+21,Algiers,Student aged 16-26,USTHB,Graduate / Alumni,My own computer,No,4,>5 hours/week,Maybe
+22,Algiers,Student aged 16-26,ESI,1CP / L1,My own mobile device,No,1,3-5 hours/week,Maybe
+23,Algiers,Student aged 16-26,ESI,1CS / L3,My own mobile device,No,2,>5 hours/week,Yes
+24,Algiers,Unemployed,ESI ,2CS / M1,My own computer,No,2,3-5 hours/week,Yes
+25,Medea,Unemployed,ESI,1CP / L1,My own computer,No,1,3-5 hours/week,Yes
+26,Boumerdes,Nonprofit research scientist,ESI,2CP / L2,My own computer,No,1,>5 hours/week,Yes
+27,Tizi,Unemployed,ESI,1CS / L3,My own computer,No,1,3-5 hours/week,Yes
+28,Algiers,Unemployed,ESI,1CS / L3,My own computer,No,1,3-5 hours/week,Yes
+29,Tlemcen,Student aged 16-26,USTHB,1CP / L1,My own mobile device,No,1,1-2 hours/week,Yes
+30,Algiers,Student aged 16-26,ESI ,1CS / L3,My own computer,No,1,3-5 hours/week,Yes
+31,Algiers,Student aged 16-26,ESI,1CP / L1,My own computer,No,1,3-5 hours/week,Yes
+32,Algiers,Student aged 16-26,USTHB,2CP / L2,My own computer,No,2,1-2 hours/week,Maybe
+33,Algiers,Student aged 16-26,ESI,1CS / L3,My own computer,No,2,3-5 hours/week,Yes
+34,Algiers,Student aged 16-26,ESI,2CS / M1,My own computer,No,2,3-5 hours/week,Yes
+35,Algiers,Student aged 16-26,ESI,1CP / L1,My own computer,No,2,3-5 hours/week,Maybe
+36,Algiers,Student aged 16-26,ESI,1CS / L3,My own computer,No,2,3-5 hours/week,Yes
+37,Medea,Unemployed,ESI,1CP / L1,My own computer,No,1,>5 hours/week,Yes
+38,Algiers,Student aged 16-26,ESI,1CS / L3,My own computer,No,2,>5 hours/week,Yes
+39,Algiers,Unemployed,ESI,1CP / L1,My own computer,No,2,>5 hours/week,Yes
+40,Algiers,Student aged 16-26,ESI,1CP / L1,My own computer,No,2,>5 hours/week,Yes
+41,Algiers,Student aged 16-26,ESI,1CS / L3,My own computer,No,2,>5 hours/week,Yes
+42,Algiers,Student aged 16-26,USTHB,1CP / L1,My own computer,No,1,>5 hours/week,Yes
+43,Algiers,Unemployed,ESI,1CP / L1,My own computer,No,2,3-5 hours/week,Yes
+44,Medea,Student aged 16-26,ESI,1CS / L3,My own mobile device,No,1,3-5 hours/week,Yes
+45,Oran,Unemployed,ESI,1CP / L1,My own computer,No,2,3-5 hours/week,Yes
+46,Tizi,Student aged 16-26,ESI,1CS / L3,My own computer,No,2,>5 hours/week,Yes
+47,Algiers,Student aged 16-26,ESI,2CP / L2,My own computer,No,2,3-5 hours/week,Yes
+48,Algiers,Student aged 16-26,ESI,1CS / L3,My own mobile device,No,2,>5 hours/week,Yes
+49,Algiers,Student aged 16-26,UNIVERSITY ALGIERS 1,2CP / L2,My own computer,No,2,3-5 hours/week,Yes
+50,Algiers,Unemployed,USTHB,2CP / L2,My own computer,No,3,3-5 hours/week,Maybe
+51,Batna,Student aged 16-26,ESI,2CP / L2,My own computer,No,1,1-2 hours/week,Yes
+52,Algiers,Student aged 16-26,ESI,2CP / L2,My own computer,No,2,>5 hours/week,Yes
+53,Algiers,Student aged 16-26,USTHB,2CP / L2,My own mobile device,No,1,3-5 hours/week,Maybe
+54,Blida,Unemployed,ESI,1CP / L1,My own mobile device,No,1,3-5 hours/week,Yes
+55,Algiers,Student aged 16-26,HIS,1CS / L3,My own computer,No,2,>5 hours/week,Yes
+56,Ouargla,Student aged 16-26,ESI,1CP / L1,My own computer,No,1,>5 hours/week,Yes
+57,Algiers,Unemployed,ESI,1CP / L1,My own computer,No,1,>5 hours/week,Yes
+58,Tlemcen,Student aged 16-26,ESI ,1CP / L1,My own computer,No,3,3-5 hours/week,Yes
+59,Algiers,Student aged 16-26,USTHB,3CS / M2,My own computer,No,3,3-5 hours/week,Yes
+60,Boumerdes,Student aged 16-26,ESI,1CP / L1,My own computer,No,1,>5 hours/week,Yes
+61,Boumerdes,Student aged 16-26,ESI,1CS / L3,My own mobile device,No,2,>5 hours/week,Yes
+62,Blida,Student aged 16-26,ESI ,2CS / M1,My own mobile device,No,3,3-5 hours/week,Yes
+63,Algiers,Student aged 16-26,ESB,1CP / L1,My own computer,No,1,3-5 hours/week,Yes
+64,Algiers,Unemployed,HIS,Graduate / Alumni,My own mobile device,No,3,3-5 hours/week,Yes
+65,Boumerdes,Student aged 16-26,ESI,1CS / L3,My own computer,No,1,1-2 hours/week,Yes
+66,Algiers,Student aged 16-26,USTHB,2CS / M1,My own computer,No,3,>5 hours/week,Yes
+67,Algiers,Student aged 16-26,ESI,2CS / M1,My own mobile device,No,4,3-5 hours/week,Yes
+68,Blida,Unemployed,ESB,2CP / L2,My own computer,No,1,3-5 hours/week,Yes
+69,Algiers,Unemployed,ESI,1CS / L3,My own mobile device,No,2,>5 hours/week,Yes
+70,Algiers,Student aged 16-26,ESI,1CS / L3,My own mobile device,No,1,3-5 hours/week,Maybe
+71,Algiers,Student aged 16-26,ESI,2CP / L2,My own computer,No,1,>5 hours/week,Yes
+72,Algiers,Student aged 16-26,ESI,1CP / L1,My own computer,No,1,1-2 hours/week,Maybe
+73,Algiers,Student aged 16-26,HIS,1CS / L3,My own computer,No,2,>5 hours/week,No
+74,Tizi,Student aged 16-26,ESTIN,1CP / L1,My own mobile device,No,1,>5 hours/week,Yes
+75,Tipaza,Student aged 16-26,HIS,1CP / L1,My own computer,No,1,3-5 hours/week,Maybe
+76,Medea,Student aged 16-26,ESI,1CP / L1,My own computer,No,1,1-2 hours/week,Yes
+77,Setif,Unemployed,ESI,2CP / L2,My own computer,Yes,2,>5 hours/week,Yes
+78,Algiers,Unemployed,ENP,2CS / M1,My own computer,No,4,3-5 hours/week,Yes
+79,Algiers,Student aged 16-26,ESI,1CS / L3,My own mobile device,No,2,3-5 hours/week,Maybe
+80,Algiers,Student aged 16-26,USTHB,1CS / L3,My own computer,No,1,3-5 hours/week,Yes
+81,Blida,Student aged 16-26,ENP,2CP / L2,My own computer,No,3,>5 hours/week,Yes
+82,Algiers,Student aged 16-26,USTHB,2CS / M1,My own mobile device,No,3,1-2 hours/week,Yes
+83,Algiers,Unemployed,ESI,1CP / L1,My own computer,No,2,3-5 hours/week,Yes
+84,Chlef,Student aged 16-26,UMBB,1CS / L3,My own computer,No,2,3-5 hours/week,Yes
+85,Algiers,Student aged 16-26,UMBB,2CS / M1,My own computer,No,3,3-5 hours/week,Yes
+86,Algiers,Student aged 16-26,USTHB,2CP / L2,My own computer,No,2,3-5 hours/week,Maybe
+87,Algiers,Student aged 16-26,USTHB,2CP / L2,My own mobile device,No,2,>5 hours/week,Yes
+88,Medea,Student aged 16-26,INELEC,2CS / M1,My own computer,No,2,>5 hours/week,Yes
+89,Algiers,Student aged 16-26,USTHB,2CP / L2,My own mobile device,No,1,3-5 hours/week,Maybe
+90,Algiers,Student aged 16-26,INELEC,1CS / L3,My own computer,No,2,>5 hours/week,Yes
+91,Algiers,Unemployed,ESTIN,2CS / M1,My own mobile device,No,3,>5 hours/week,Yes
+92,Algiers,Student aged 16-26,ESI,2CS / M1,My own mobile device,No,3,>5 hours/week,Yes
+93,Algiers,Student aged 16-26,ESTIN,2CS / M1,My own mobile device,No,3,1-2 hours/week,Yes
+94,Algiers,Nonprofit research scientist,ESB,Graduate / Alumni,My own computer,No,1,>5 hours/week,Yes
+95,Algiers,Student aged 16-26,ESI,2CS / M1,My own computer,No,3,3-5 hours/week,Maybe
+96,Medea,Unemployed,HIS,2CS / M1,My own computer,No,5,>5 hours/week,Yes
+97,Algiers,Student aged 16-26,ESI,2CS / M1,My own computer,No,3,3-5 hours/week,Yes
+98,Boumerdes,Student aged 16-26,ESI,2CS / M1,My own computer,No,3,3-5 hours/week,Yes
+99,Algiers,Student aged 16-26,ESI,2CS / M1,My own mobile device,No,4,3-5 hours/week,Yes
+100,Boumerdes,Student aged 16-26,ESI,2CS / M1,My own computer,No,2,>5 hours/week,Yes
+101,Blida,Student aged 16-26,HIS,2CS / M1,My own computer,No,3,3-5 hours/week,Yes
+102,Boumerdes,Student aged 16-26,ESI,2CS / M1,My own mobile device,No,3,>5 hours/week,Yes
+103,Blida,Student aged 16-26,ESTIN,2CS / M1,My own computer,No,2,1-2 hours/week,Yes
+104,Setif,Student aged 16-26,ESI,1CS / L3,My own computer,No,3,>5 hours/week,Yes
+105,Algiers,Student aged 16-26,ESI,2CS / M1,My own mobile device,No,4,>5 hours/week,Yes
+106,Medea,Student aged 16-26,ESI,1CS / L3,My own computer,No,2,3-5 hours/week,Yes
+107,Adrar,Student aged 16-26,ESI,2CS / M1,My own computer,No,3,3-5 hours/week,Yes
+108,Algiers,Unemployed,ESI,1CP / L1,My own computer,No,1,3-5 hours/week,Yes
+109,Algiers,Student aged 16-26,ESI,2CS / M1,My own computer,No,2,3-5 hours/week,Yes
+110,Algiers,Student aged 16-26,ESI,3CS / M2,My own mobile device,No,2,3-5 hours/week,Yes
+111,Algiers,Unemployed,ESI,2CS / M1,My own mobile device,No,2,1-2 hours/week,Maybe
+112,Adrar,Unemployed,ESI,1CP / L1,My own mobile device,No,1,1-2 hours/week,Yes
+113,Algiers,Student aged 16-26,ESI,2CP / L2,My own mobile device,No,3,3-5 hours/week,Yes
+114,Algiers,Student aged 16-26,ESTIN,1CS / L3,My own mobile device,No,2,3-5 hours/week,Yes
+115,Tizi,Unemployed,ESI,1CP / L1,My own computer,No,1,3-5 hours/week,Yes
+116,Bousaada,Student aged 16-26,ESI,1CP / L1,My own computer,No,2,1-2 hours/week,Maybe
+117,Constantine,Unemployed,UNIVERSITY ALGIERS 1,2CP / L2,My own mobile device,No,1,3-5 hours/week,Maybe
+118,Algiers,Unemployed,USTHB,1CS / L3,My own computer,No,1,1-2 hours/week,Yes
+119,Tlemcen,Unemployed,ESI,1CP / L1,My own mobile device,No,1,3-5 hours/week,Maybe
+120,Algiers,Student aged 16-26,UNIVERSITY ALGIERS 1,1CS / L3,My own computer,No,1,3-5 hours/week,Yes
+121,Algiers,Student aged 16-26,USTHB,2CP / L2,My own computer,No,2,3-5 hours/week,Yes
+122,Algiers,Unemployed,UNIVERSITY ALGIERS 1,1CS / L3,My own mobile device,No,2,>5 hours/week,Yes
+123,Medea,Nonprofit research scientist,ESI ,2CS / M1,My own computer,No,3,3-5 hours/week,Yes
+124,Algiers,Unemployed,UNIVERSITY ALGIERS 1,1CS / L3,My own computer,No,1,1-2 hours/week,Maybe
+125,Algiers,Student aged 16-26,UNIVERSITY ALGIERS 1,1CS / L3,My own computer,No,2,3-5 hours/week,Yes
+126,Algiers,Student aged 16-26,UNIVERSITY ALGIERS 1,1CS / L3,My own computer,No,3,3-5 hours/week,Maybe
+127,Algiers,Unemployed,UNIVERSITY ALGIERS 1,1CS / L3,My own mobile device,No,2,>5 hours/week,Yes
+128,Algiers,Student aged 16-26,ESI,2CS / M1,My own computer,No,4,3-5 hours/week,Yes
+129,Boumerdes,Student aged 16-26,ESI,2CS / M1,My own computer,No,3,3-5 hours/week,Yes
+130,Algiers,Student aged 16-26,ESI ,1CS / L3,My own computer,No,3,1-2 hours/week,Yes
+131,Tipaza,Student aged 16-26,ESI,1CS / L3,My own computer,No,2,3-5 hours/week,Yes
+132,Boumerdes,Student aged 16-26,ESI,1CS / L3,My own computer,No,3,>5 hours/week,Maybe
+133,Algiers,Student aged 16-26,USTHB,2CP / L2,My own computer,No,2,>5 hours/week,Yes
+134,Boumerdes,Student aged 16-26,ESI,2CP / L2,My own computer,No,1,1-2 hours/week,Yes
+135,Algiers,Student aged 16-26,ESI,2CP / L2,My own computer,No,2,>5 hours/week,Yes
+136,Algiers,Student aged 16-26,ESI,2CP / L2,My own computer,No,2,>5 hours/week,Yes
+137,Algiers,Student aged 16-26,ESI,2CP / L2,My own mobile device,No,2,3-5 hours/week,Yes
+138,Algiers,Student aged 16-26,ESI,1CS / L3,My own mobile device,No,1,3-5 hours/week,Maybe
+139,Algiers,Student aged 16-26,ESI,1CS / L3,My own mobile device,No,1,3-5 hours/week,Maybe
+140,Algiers,Student aged 16-26,USTHB,2CS / M1,My own mobile device,No,3,3-5 hours/week,Maybe
+141,Tlemcen,Student aged 16-26,ESI,2CS / M1,My own computer,No,3,>5 hours/week,Yes
+142,Medea,Student aged 16-26,ESI,2CS / M1,My own computer,No,4,3-5 hours/week,Yes
+143,Algiers,Unemployed,ESI,2CS / M1,My own computer,No,2,1-2 hours/week,Yes
+144,Algiers,Student aged 16-26,ESI,2CS / M1,My own mobile device,No,3,3-5 hours/week,Yes
+145,Algiers,Student aged 16-26,USTHB,2CP / L2,My own computer,No,1,1-2 hours/week,Maybe
+146,Algiers,Student aged 16-26,ESI,1CS / L3,My own mobile device,No,2,1-2 hours/week,Yes
+147,Algiers,Student aged 16-26,ESI,3CS / M2,My own computer,No,4,3-5 hours/week,Yes

@@ -1,0 +1,85 @@
+> summary(data)  # Summary statistics for each variable
+            ID            
+            City          
+        Min.   :  1.0   Length:147        
+        1st Qu.: 37.5   Class :character  
+        Median : 74.0   Mode  :character  
+        Mean   : 74.0                     
+        3rd Qu.:110.5                     
+        Max.   :147.0     
+
+        How.would.you.describe.your.current.situation. Current.school    
+        Length:147                                     Length:147        
+        Class :character                               Class :character  
+        Mode  :character                               Mode  :character  
+                                                                        
+        Academic.Year      On.what.device.will.you.use.DataCamp.
+        Length:147         Length:147                           
+        Class :character   Class :character                     
+        Mode  :character   Mode  :character                     
+                                                                
+        Are.you.currently.receiving.any.other.forms.of.financial.assistance.or.scholarships.
+        Length:147                                                                          
+        Class :character                                                                    
+        Mode  :character                                                                    
+                                                                                            
+        On.a.scale.of.1.5..how.much.do.you.know.about.data.science..analysis..engineering..AI..and.or.machine.learning.
+        Min.   :1.000                                                                                                  
+        1st Qu.:1.000                                                                                                  
+        Median :2.000                                                                                                  
+        Mean   :1.986                                                                                                  
+        3rd Qu.:3.000                                                                                                  
+        Max.   :5.000                                                                                                  
+        How.much.time.will.you.dedicate.to.use.DataCamp.regularly.
+        Length:147                                                
+        Class :character                                          
+        Mode  :character                                          
+                                                                
+        After.using.DataCamp.for.6.12.months..are.you.willing.and.able.to.fill.out.and.submit.this.survey.about.your.experience.
+        Length:147                                                                                                              
+        Class :character                                                                                                        
+        Mode  :character                                                                                                        
+                                                                                                                                
+                    
+# 3. Visualize the frequency of categories for categorical variables
+> table(data$City)
+
+            Adrar        Algiers         Annaba          Batna          Blida      Boumerdes 
+                2             93              1              1              8             10 
+        Bousaada          Chlef    Constantine          Medea           Oran        Ouargla 
+                1              4              2              9              2              1 
+    Oum el bouagui          Setif         Tipaza           Tizi        Tlemcen 
+                1              2              2              4              4 
+
+> table(data$How.would.you.describe.your.current.situation.)
+
+        Nonprofit research scientist           Student aged 16-26                   Unemployed 
+                                3                          110                           34 
+
+> table(data$Current.school.)
+    < table of extent 0 >
+> table(data$Academic.Year)
+
+            1CP / L1          1CS / L3          2CP / L2          2CS / M1          3CS / M2 
+                31                47                30                33                 3 
+    Graduate / Alumni 
+                    3 
+> table(data$On.what.device.s..will.you.use.DataCamp.)
+    < table of extent 0 >
+> table(data$Are.you.currently.receiving.any.other.forms.of.financial.assistance.or.scholarships.)
+
+    No Yes 
+    145   2 
+> table(data$On.a.scale.of.1.5..how.much.do.you.know.about.data.science..analysis..engineering..AI..and.or.machine.learning.)
+
+    1  2  3  4  5 
+    51 57 30  8  1 
+> table(data$How.much.time.will.you.dedicate.to.use.DataCamp.regularly.)
+
+    >5 hours/week 1-2 hours/week 3-5 hours/week 
+                48             20             79 
+> table(data$After.using.DataCamp.for.6.12.months..are.you.willing.and.able.to.fill.out.and.submit.this.survey.about.your.experience.)
+
+    Maybe    No   Yes 
+    27     1   119 
+

@@ -1,0 +1,66 @@
+> summary(data)  # Summary statistics for each variable
+        ID         Wilaya           University        Level.of.your.study
+    Min.   :  1   Length:121         Length:121         Length:121         
+    1st Qu.: 31   Class :character   Class :character   Class :character   
+    Median : 61   Mode  :character   Mode  :character   Mode  :character   
+    Mean   : 61                                                            
+    3rd Qu.: 91                                                            
+    Max.   :121                                                            
+    How.did.you.hear.of.CSE.Around.Algeria. Select.the.workshop.you.wish.to.attend
+    Length:121                              Length:121                            
+    Class :character                        Class :character                      
+    Mode  :character                        Mode  :character                      
+                                                                                
+                                                                                
+                                                                                
+    Rate.your.knowledge.in.the.field.of.the.workshop
+    Min.   :1.000                                   
+    1st Qu.:1.000                                   
+    Median :1.000                                   
+    Mean   :1.645                                   
+    3rd Qu.:2.000                                   
+    Max.   :3.000                                   
+> 
+
+
+
+Wilaya Class :character
+Alger    121
+Name: count, dtype: int64
+
+
+"University"  Class :character       Count
+Faculty of medicine  Ziania           49
+ESI                                   36
+USTHB                                 22
+University of Algiers 1               14
+
+
+
+"Level of your study" Class :character            Count
+1 cp / L1                                          42
+2 cp / L2                                          42
+2 cs / Master 1                                    20
+1 cs / L3                                          17
+
+
+"How did you hear of CSE Around Algeria?" Class :character   Count
+CSE's social media                                            67
+Your local partner of CSE Around Algeria                      33
+Recommended by a friend or a colleague                        21
+
+
+"Select the workshop you wish to attend" Class :character    Count
+Dev WEB : intro to HTML CSS                                   48
+Intro to cloud                                                40
+Intro to machine learning an AI                               33
+
+
+Rate your knowledge 
+in the field of the workshop        Count
+        1                           67
+        2                           30
+        3                           24
+
+
+
