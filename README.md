@@ -15,4 +15,3 @@ Each lab directory contains:
 
 - **Jupyter Notebooks**: Implementations of various data analysis techniques and methods.
 - **Explanatory Materials**: Detailed instructions and explanations of the concepts covered.
-- **Exercises**: Practical tasks to reinforce the learned concepts.
